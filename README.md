@@ -8,3 +8,6 @@
 ![pic 6](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/c107a8c6-1016-45eb-89a2-6d0f30eb7e22)
 ![pic 7](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/a90338db-d2c0-4d16-ab32-642236e94506)
 
+
+
+#Task-2
