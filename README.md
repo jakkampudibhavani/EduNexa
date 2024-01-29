@@ -1,4 +1,4 @@
-#Task-1
+#Task-1: Cybersecurity Lab Setup
 
 ![pic 1](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/8c60680b-cb4a-43cf-a626-b9c388100f26)
 ![pic 2](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/2e57f27d-75b1-4504-b92c-bf5b8417f9f5)
@@ -10,7 +10,7 @@
 
 
 
-#Task-2
+#Task-2: Web Application Vulnerability Assessment
 
 ![pic 1](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/82c2de67-4cec-4688-859e-eb843bdf0d1f)
 ![pic 2](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/60a8c4dd-0709-4cf2-918a-3a18f3e879cf)
@@ -34,7 +34,7 @@
 
 
 
-#Task-3
+#Task-3: Password Cracking
 
 ![Screenshot_2024-01-25_21_36_04](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/cbb32ec2-92db-4b0b-a1f7-db0ec25df42c)
 ![Screenshot_2024-01-25_21_36_15](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/76ebf408-38f8-41a4-b0e0-d815995046f3)
@@ -46,3 +46,11 @@
 ![Screenshot_2024-01-28_14_18_02](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/942892c9-2eb3-4a34-bc08-16f66e0e9649)
 ![zip file pic](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/1c31ec43-63f0-4019-bda5-46251dd80c38)
 ![zip password](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/f066ad62-1b84-4ec4-a2d6-964479b726cf)
+
+
+
+#Task-4: Wireless Network Security Assessment
+
+![Screenshot_2024-01-30_03_00_53](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/971fab8f-ddbd-450f-9b3c-3bcdfcc360da)
+![Screenshot_2024-01-30_03_01_05](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/0f46909f-f8c7-4efe-a143-90bc2832da9d)
+
