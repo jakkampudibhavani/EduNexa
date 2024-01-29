@@ -31,3 +31,18 @@
 ![pic 19](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/7f2397ea-41d5-4f34-9c8b-da5ef6bd37eb)
 ![pic 20](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/0c84298d-6e49-4e76-bd1d-1db57de9cd95)
 ![pic 21](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/bfcb92e3-1018-46e7-a85e-eec7a21f1094)
+
+
+
+#Task-3
+
+![Screenshot_2024-01-25_21_36_04](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/cbb32ec2-92db-4b0b-a1f7-db0ec25df42c)
+![Screenshot_2024-01-25_21_36_15](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/76ebf408-38f8-41a4-b0e0-d815995046f3)
+![Screenshot_2024-01-25_21_36_31](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/a579830f-fd55-405e-a0e1-36782f6e3b15)
+![Screenshot_2024-01-27_22_57_53](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/e6fbbe3e-751c-41c2-a9ff-dd80791dcc79)
+![Screenshot_2024-01-27_23_00_58](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/61beeb4b-fe22-4d5b-bdcb-530d2cd490dc)
+![Screenshot_2024-01-28_14_17_03](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/0a1b9366-d50f-4f20-913e-d54fe3afdd59)
+![Screenshot_2024-01-28_14_17_52](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/e0956277-ef78-4207-8f31-32c1db4ff84f)
+![Screenshot_2024-01-28_14_18_02](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/942892c9-2eb3-4a34-bc08-16f66e0e9649)
+![zip file pic](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/1c31ec43-63f0-4019-bda5-46251dd80c38)
+![zip password](https://github.com/jakkampudibhavani/EduNexa/assets/102716863/f066ad62-1b84-4ec4-a2d6-964479b726cf)
